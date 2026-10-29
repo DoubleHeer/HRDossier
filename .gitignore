@@ -24,6 +24,9 @@
 .DS_Store
 *.pem
 
+# WorkBuddy workspace data (internal)
+/.workbuddy/
+
 # The website, built by site/build.sh
 /_site/
 
